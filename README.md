@@ -1,6 +1,6 @@
 # flutter_unity_demo
-**Demo**: Flutter connecting to Unity
-**version**: 2026.03.18 Wed.
+- **Demo**: Flutter connecting to Unity
+- **version**: 2026.03.18 Wed.
 
 #### **References**:
 - [pub.dev: flutter_unity_widget 2022.2.1](https://pub.dev/packages/flutter_unity_widget)
