@@ -1,9 +1,9 @@
 # 關節炎數位介入遊戲化APP開發專案
 
-**Topic**：遊戲物件建模步驟紀錄
-**Author**：AW'z
-**Update**：2026/04/09 Wed.
-**Version**：v1.0
+### **Topic**：遊戲物件建模步驟紀錄
+### **Author**：AW'z
+### **Update**：2026/04/09 Wed.
+### **Version**：v1.0
 
 ---
 
