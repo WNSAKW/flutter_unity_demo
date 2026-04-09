@@ -141,7 +141,7 @@ ProjectName/
 │   └── Images/            ← Gemini 等產出的參考圖
 ├── Animations/            ← 額外動作檔案（可選）
 └── Documents/
-└── GameObjectModelingSteps.md
+    └── GameObjectModelingSteps.md
 
 ---
 
