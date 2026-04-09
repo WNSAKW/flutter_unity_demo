@@ -131,7 +131,8 @@
 ---
 
 ## 資料夾結構建議
-`ProjectName/
+```bash
+ProjectName/
 ├── Models/
 │   ├── Characters/
 │   │   ├── Raw/           ← Tripo.ai 原始輸出
@@ -141,8 +142,8 @@
 │   └── Images/            ← Gemini 等產出的參考圖
 ├── Animations/            ← 額外動作檔案（可選）
 └── Documents/
-    └── GameObjectModelingSteps.md`
-
+    └── GameObjectModelingSteps.md
+```
 ---
 
 ## TaskList
