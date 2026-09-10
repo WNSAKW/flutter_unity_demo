@@ -9,7 +9,7 @@
 
 #### 安裝插件
 1. flutter_unity：把"Editor"資料夾下載並放到unity專案的Asset資料夾中
-   - unity專案路徑：須在flutter專案中新增unity資料夾，並將unity專案放在該資料夾中(如圖：flutter_unity_demo.png)
+   - unity專案路徑：須在flutter專案中新增unity資料夾，並將unity專案放在該資料夾中(如圖：[flutter_unity_demo.png](https://github.com/WNSAKW/flutter_unity_demo/blob/main/flutter_unity/flutter_unity_demo.png))
 2. Addressables 插件：在 Package Manager 中下載
    - 一個場景 = 一個關卡（flutter可呼叫不同的 Addressables）
    - reference：[Unity Addressables 資源管理](https://blog.csdn.net/linxinfa/article/details/122390621)
